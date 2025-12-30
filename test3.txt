@@ -1,1 +1,2 @@
 Here is just a sample file just for an excercise too add in Local repository to the GIT server
+Now i have modified some changes in this file and  pushing it to the GIT server
