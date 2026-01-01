@@ -1,0 +1,2 @@
+This file is a dummy file used for learning purpose 
+this file is like creating in GIT server and now im going to pull in local repository
